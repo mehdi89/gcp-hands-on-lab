@@ -1,4 +1,4 @@
-def acg_fireworks(request):
+def wpdev_fireworks(request):
     return """
     <!doctype html>
     <html>
